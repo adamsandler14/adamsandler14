@@ -1,5 +1,4 @@
-# Benjamin Tan - Senior Blockchain & Full Stack Developer
-
+# [Benjamin Tan - Senior Blockchain & Full Stack Developer](https://t.me/benjamintan)
 👋 Hi there! I'm Benjamin Tan, a passionate and innovative **Senior Blockchain & Full Stack Developer** with over 5 years of experience in designing and implementing cutting-edge blockchain solutions. I specialize in **smart contract development**, **decentralized applications (DApps)**, and **blockchain integration**. I thrive in collaborative environments and love exploring new technologies to solve complex problems.
 
 ---
