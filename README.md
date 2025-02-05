@@ -108,9 +108,9 @@
 
 - **Portfolio:** [benjamintan-portfolio.vercel.app](https://benjamintan-portfolio.vercel.app)
 - **Email:** benjamintan1013@gmail.com
-- **Telegram:** [@blockchainDeveloper_Ben](https://t.me/blockchainDeveloper_Ben)
+- **Telegram:** [@blockchainDeveloper_Ben](https://t.me/benjamintan)
 - **LinkedIn:** [Benjamin Tan](https://www.linkedin.com/in/benjamin-tan-6bb000344/)
-- **GitHub:** [Kelvin-1013](https://github.com/Kelvin-1013)
+- **GitHub:** [Kelvin-1013](https://github.com/benjamintan1013)
 
 ---
 
