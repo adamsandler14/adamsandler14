@@ -91,7 +91,6 @@
 
 - Developing a **high-performance Solana trading bot** using Rust for low-latency trade execution.
 - Exploring **Huff language** for gas-efficient Ethereum smart contracts.
-
 ---
 
 ## 📂 Active Projects
@@ -110,8 +109,6 @@
 - **Email:** benjamintan1013@gmail.com
 - **Telegram:** [@blockchainDeveloper_Ben](https://t.me/benjamintan)
 - **LinkedIn:** [Benjamin Tan](https://www.linkedin.com/in/benjamin-tan-6bb000344/)
-- **GitHub:** [Kelvin-1013](https://github.com/benjamintan1013)
-
 ---
 
 🚀 Let’s build the future of blockchain together! Feel free to reach out for collaborations or discussions.
