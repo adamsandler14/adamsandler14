@@ -1,5 +1,5 @@
-# [Benjamin Tan - Senior Blockchain & Full Stack Developer](https://t.me/benjamintan)
-👋 Hi there! I'm Benjamin Tan, a passionate and innovative **Senior Blockchain & Full Stack Developer** with over 5 years of experience in designing and implementing cutting-edge blockchain solutions. I specialize in **smart contract development**, **decentralized applications (DApps)**, and **blockchain integration**. I thrive in collaborative environments and love exploring new technologies to solve complex problems.
+# [Adam Sandler - Senior Blockchain & Full Stack Developer](https://t.me/adamsandler14)
+👋 Hi there! I'm Adam Sandler, a passionate and innovative **Senior Blockchain & Full Stack Developer** with over 5 years of experience in designing and implementing cutting-edge blockchain solutions. I specialize in **smart contract development**, **decentralized applications (DApps)**, and **blockchain integration**. I thrive in collaborative environments and love exploring new technologies to solve complex problems.
 
 ---
 
@@ -93,22 +93,11 @@
 - Exploring **Huff language** for gas-efficient Ethereum smart contracts.
 ---
 
-## 📂 Active Projects
-
-- **[Meme Coin Presale](https://app.tmonk.net)**
-- **[Customized No-Coding GPT](https://ollabot.com)**
-- **[Crypto Presale Project](https://crypto-presale-project-multi-theme-multi-language.vercel.app/)**
-- **[Freelancing Platform](https://freelancing-platform-six.vercel.app/)**
-- **[Fitness Platform](https://fitness-platform-seven.vercel.app)**
-
 ---
 
 ## 📫 Let’s Connect!
-
-- **Portfolio:** [benjamintan-portfolio.vercel.app](https://benjamintan-portfolio.vercel.app)
-- **Email:** benjamintan1013@gmail.com
-- **Telegram:** [@blockchainDeveloper_Ben](https://t.me/benjamintan)
-- **LinkedIn:** [Benjamin Tan](https://www.linkedin.com/in/benjamin-tan-6bb000344/)
+- **Email:** adamsandler148336@gmail.com
+- **Telegram:** [@adamsandler14](https://t.me/adamsandler14)
 ---
 
 🚀 Let’s build the future of blockchain together! Feel free to reach out for collaborations or discussions.
